@@ -1,24 +1,8 @@
-# vue-amplify
+# Pluralsight's Amplify Todo App
 
-## Project setup
-```
-npm install
-```
+https://app.pluralsight.com/library/courses/full-stack-serverless-apps-aws-amplify-getting-started/exercise-files
 
-### Compiles and hot-reloads for development
+### URL
 ```
-npm run serve
+http://vueamplify-20220701190551-hostingbucket-dev.s3-website-us-west-2.amazonaws.com/
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
