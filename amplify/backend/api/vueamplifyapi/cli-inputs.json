@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "vueamplifyapi",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/i341432/amplify_pluralsight/vue-amplify/amplify/backend/api/vueamplifyapi/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
